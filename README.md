@@ -1,3 +1,22 @@
+
+<div id="wrap">
+    <!-- Navbar header -->
+    <nav class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="."><i class="fa fa-home"></i></a>
+    </div>
+    <div id="navbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="CV.html">CV</a></li>
+        <li><a href="publications.html">Publications</a></li>      
+  		  <li><a href="MTT.html">Master's Thesis Topics</a></li>  
+         <li><a href="advanced_rl.html">Advanced RL Seminar</a></li> 
+      </ul>
+    </div>
+  </div>
+</nav>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/GeorgMiller/website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
